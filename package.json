@@ -1,0 +1,11 @@
+{
+  "name": "base_project",
+  "version": "0.0.1",
+  "description": "just for testing how we can developer scaleable app strture ",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Manjeet Singh",
+  "license": "GPL-3.0"
+}
